@@ -1,1 +1,2 @@
-"Kayo Zirtidis" 
+Kayo Zirtidis
+zirtidik@oregonstate.edu
